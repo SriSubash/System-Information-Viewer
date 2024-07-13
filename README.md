@@ -5,7 +5,7 @@ The System Information Viewer (SIV) Java project is a software application desig
 # Key Features
 ## Hardware Information:
 
-CPU: Model, speed, cores, threads.
+* CPU: Model, speed, cores, threads.
 Memory: Total, used, available memory.
 Storage: Information about hard drives and SSDs, including total and available space.
 Network: Details about network interfaces, IP addresses, and connection status.
