@@ -6,23 +6,23 @@ The System Information Viewer (SIV) Java project is a software application desig
 ## Hardware Information:
 
 * CPU: Model, speed, cores, threads.
-Memory: Total, used, available memory.
-Storage: Information about hard drives and SSDs, including total and available space.
-Network: Details about network interfaces, IP addresses, and connection status.
-GPU: Information about graphics cards and their capabilities.
+* Memory: Total, used, available memory.
+* Storage: Information about hard drives and SSDs, including total and available space.
+* Network: Details about network interfaces, IP addresses, and connection status.
+* GPU: Information about graphics cards and their capabilities.
 
 ## Software Information:
 
-Operating System: Name, version, architecture.
-Java Runtime: Version, vendor, and runtime details.
-Installed Software: List of installed applications and their versions.
-Processes: Currently running processes and their details.
+* Operating System: Name, version, architecture.
+* Java Runtime: Version, vendor, and runtime details.
+* Installed Software: List of installed applications and their versions.
+* Processes: Currently running processes and their details.
 
 ## System Monitoring:
 
-Resource Usage: Real-time monitoring of CPU, memory, and network usage.
-Event Logs: Access to system event logs for troubleshooting.
-Temperature Monitoring: Readings from system sensors for CPU and GPU temperatures.
+* Resource Usage: Real-time monitoring of CPU, memory, and network usage.
+* Event Logs: Access to system event logs for troubleshooting.
+* Temperature Monitoring: Readings from system sensors for CPU and GPU temperatures.
 
 ## Architecture and Design
 
@@ -44,8 +44,8 @@ A graphical user interface (GUI) built using Java's Swing or JavaFX libraries. T
 
 These include third-party libraries and custom utilities for tasks such as JSON parsing, file I/O, and network communication.
 Example Technologies and Libraries
-Java Development Kit (JDK): The base platform for writing and running the application.
-Swing/JavaFX: For creating the graphical user interface.
-JNA (Java Native Access): For accessing native system APIs.
-OSHI (Operating System and Hardware Information): A Java library that provides cross-platform access to system information.
-SLF4J (Simple Logging Facade for Java): For logging application events.
+* Java Development Kit (JDK): The base platform for writing and running the application.
+* Swing/JavaFX: For creating the graphical user interface.
+* JNA (Java Native Access): For accessing native system APIs.
+* OSHI (Operating System and Hardware Information): A Java library that provides cross-platform access to system information.
+* SLF4J (Simple Logging Facade for Java): For logging application events.
